@@ -10,8 +10,8 @@ Thanks to the HERO Petition campaign, we have all the signatures of everyone who
 
 There are a couple goals:
 
-1) To validate that these signatures are legit and represent people who actually signed
-2) To transcode the handwritten signature list to a computer processable format that could be use for further research
+- 1) To validate that these signatures are legit and represent people who actually signed
+- 2) To transcode the handwritten signature list to a computer processable format that could be use for further research
 
 
 
