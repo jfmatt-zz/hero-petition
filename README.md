@@ -34,7 +34,7 @@ Unfortunately, github won't allow the pdfs to stay in the repo (they're too big)
 
 ## Links to the PDFs and their READMEs
 
-* [Box A](http://www.scribd.com/doc/233924082/HERO-Petitions-Box-A#fullscreen=1) ([README]https://github.com/Ccook/hero-petition/blob/master/petition-csv/BOX_A/README.md))
+* [Box A](http://www.scribd.com/doc/233924082/HERO-Petitions-Box-A#fullscreen=1) ([README](https://github.com/Ccook/hero-petition/blob/master/petition-csv/BOX_A/README.md))
 * [Box B](http://www.scribd.com/doc/233930795/HERO-Petitions-Box-B#fullscreen=1) ([README](https://github.com/Ccook/hero-petition/blob/master/petition-csv/BOX_B/README.md))
 * [Box C](http://www.scribd.com/doc/233995086/HERO-Petitions-Box-C#fullscreen=1) ([README](https://github.com/Ccook/hero-petition/blob/master/petition-csv/BOX_C/README.md))
 * [Box D](http://www.scribd.com/doc/234036703/HERO-Petitions-Box-D#fullscreen=1) ([README](https://github.com/Ccook/hero-petition/blob/master/petition-csv/BOX_D/README.md))
