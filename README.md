@@ -3,7 +3,7 @@ hero-petition
 
 An effort to transcode the petitions to repeal Houston's Equal Rights Ordinance.
 
-Background: [Story](http://www.buzzfeed.com/chrisgeidner/mystery-campaign-publishes-names-addresses-of-opponents-of-l)
+Background: [Mystery Campaign Publishes Names, Addresses Of Opponents Of LGBT-Discrimination Ban](http://www.buzzfeed.com/chrisgeidner/mystery-campaign-publishes-names-addresses-of-opponents-of-l)
 
 Thanks to the HERO Petition campaign, we have all the signatures of everyone who signed the 'No Unequal Rights' anti-LGBT petition. 
 
