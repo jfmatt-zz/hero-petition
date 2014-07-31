@@ -34,10 +34,10 @@ Unfortunately, github won't allow the pdfs to stay in the repo (they're too big)
 
 ## Links to the PDFs and their READMEs
 
-* [Box A](http://www.scribd.com/doc/233924082/HERO-Petitions-Box-A#fullscreen=1) [README]()
-* [Box B](http://www.scribd.com/doc/233930795/HERO-Petitions-Box-B#fullscreen=1) [README]()
-* [Box C](http://www.scribd.com/doc/233995086/HERO-Petitions-Box-C#fullscreen=1) [README]()
-* [Box D](http://www.scribd.com/doc/234036703/HERO-Petitions-Box-D#fullscreen=1) [README]()
-* [Box E](http://www.scribd.com/doc/234070985/HERO-Petitions-Box-E#fullscreen=1) [README]()
-* [Box F](http://www.scribd.com/doc/234072339/HERO-Petitions-Box-F#fullscreen=1) [README]()
-* [Box G](http://www.scribd.com/doc/234072683/HERO-Petitions-Box-G#fullscreen=1) [README]()
+* [Box A](http://www.scribd.com/doc/233924082/HERO-Petitions-Box-A#fullscreen=1) ([README]())
+* [Box B](http://www.scribd.com/doc/233930795/HERO-Petitions-Box-B#fullscreen=1) ([README]())
+* [Box C](http://www.scribd.com/doc/233995086/HERO-Petitions-Box-C#fullscreen=1) ([README]())
+* [Box D](http://www.scribd.com/doc/234036703/HERO-Petitions-Box-D#fullscreen=1) ([README]())
+* [Box E](http://www.scribd.com/doc/234070985/HERO-Petitions-Box-E#fullscreen=1) ([README]())
+* [Box F](http://www.scribd.com/doc/234072339/HERO-Petitions-Box-F#fullscreen=1) ([README]())
+* [Box G](http://www.scribd.com/doc/234072683/HERO-Petitions-Box-G#fullscreen=1) ([README]())
