@@ -1,8 +1,8 @@
 BOX A
 =======
 
-* Pages Complete/Total - 0/468
+* Pages Complete/Total - 10/468
 
 ## TODO
 
-jfmatt - page 1 until I go to sleep, will update with where I stop (7/30)
+jfmatt 7/30/14: A1-A10 done (A9 had none)
