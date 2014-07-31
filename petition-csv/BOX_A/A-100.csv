@@ -1,1 +1,3 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+50748391	Rosalinda		Adams	4800 Allendale Road #1012	77017	06/22/14
+26639617	Juanessa		Winkfield	8802 Delilah Street	77033	06/22/14
