@@ -1,1 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+18802843	Jon	K	Story	1621 Huge Oaks	77055	06/14/14
+35285949	Claire	S	Turner	7719 Pagewood Lane	77063	06/14/14
+21284914	Loyd	J	Stegent	13318 Kimberley	77079	06/14/14
