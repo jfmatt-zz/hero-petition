@@ -8,4 +8,4 @@ BOX G
 
 ## Completed 
 
-* G-100.csv - [http://www.github.com/Ccook](@Ccook)
+* G-100.csv - [@Ccook](http://www.github.com/Ccook)

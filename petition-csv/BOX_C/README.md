@@ -7,4 +7,4 @@ BOX C
 
 ## Completed
 
-* C-100.csv - [http://www.github.com/Ccook](@Ccook)
+* C-100.csv - [@Ccook](http://www.github.com/Ccook)
