@@ -1,1 +1,16 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+08211179	Roman		Klein	531 Briar Knoll Drive	77079	06/18/14
+08210908	Lynn		Klein	531 Briar Knoll Drive	77079	06/19/14
+57322455	Jon		Grimmer	14826 Carderest Drive	77079	06/25/14
+06977177	Tom		Melton	14811 Oak Bend Drive	77079	06/25/14
+06977169	Garlando		Melton	14811 Oak Bend Drive	77079	06/25/14
+13356464	Robert	L	Lincecum	14814 Oak Bend Drive	77079	06/25/14
+`13356142	Nelda		Lincecum	14814 Oak Bend Drive	77079	06/25/14
+16862997	Valerie		McMaster	523 Nottingham Oaks	77079	06/25/14
+36990740	Libby		Wylie	518 Nottingham Oaks	77079	06/25/14
+59831677	William		Crook	14826 Oak Bend Drive	77079	06/25/14
+17738121	Debra		Allie	14802 Carolcreast	77079	06/25/14
+69662799	Denise		Eban	14806 Carolcrest	77079	06/25/14
+04967384	Walt		Thome	14815 Cindywood	77079	06/25/14
+37047727	Marie		Thome	14815 Cindywood	77079	06/25/14
+02157923	Frank		Steedar	14914 Brandygreen	77079	06/25/14

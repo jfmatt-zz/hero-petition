@@ -1,4 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
 23023260,Paul,R,Pinette,7233 Beechnut St Apt D,77074,6/7/14
 1154075093,Lonzeli,,Gholsten,8201 W Bellfort St #1186,77071,6/7/14
 1110653168,LaTaya,D,Collins,1921 Worms St,77020,6/7/14

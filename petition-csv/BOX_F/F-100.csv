@@ -1,1 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+1106440375	Ronny		Jones	9202 Maya	77022	06/20/14
+1119939233	Antonio		Crumble	10811 Holly Glen	77016	06/20/14
+1191769987	Gilbert		Balboa	301 W. Little York	77076	06/20/14

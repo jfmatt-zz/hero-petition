@@ -1,1 +1,6 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+5464136	Wayne	G	Dotson	1530 N Potomac	77057	06/19/14
+24825655	Merry	G	Dans	4022 Whitman	77027	06/19/14
+09060229	Jerry	R	Williams	2818 Durban Drive	77043	06/19/14
+41405275	Arthur		Teed	2710 Nicholson	77008	06/19/14
+59841684	Whitney		Hinton	6237 Longmont	77057	06/19/14

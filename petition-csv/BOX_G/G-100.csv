@@ -1,1 +1,7 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+1103055736	Rodrigo		Lozaho	8017 Hammerly Blvd	77055	06/29/14
+1103137367	Ana		Drain	8202 Montridge Drive	77055	06/29/14
+1112655549	Ellen		Custer	9852 Warwana	77080	06/29/14
+1108414208	Jose	H	Lopez	3705 Campbell #13	77080	06/29/14
+1108361830	Patricia		Casbeer	9250 Blombenshy	77080	06/29/14
+1210425041	Flornsela		Gomzalez	8919 Elavra Drive	77080	06/29/14

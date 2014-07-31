@@ -1,1 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id	first_name	initial	last_name	street_address	zip	date_signed_mm_dd_yy
+41545476	Brittany	J	Elliott	2607 Skyview Glen Ct	77047	06/22/14
+40207730	Marylene	O	Charles	9334 Wolcott Park Lane	77075	06/22/14
+63119911	Precious		Richardson	14322 Little Willow Walk	77062	06/22/14

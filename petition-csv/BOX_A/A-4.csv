@@ -1,2 +1,2 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
 1108623108,Barbara,,Bowers,8625 Winkler,77017,6/21/14

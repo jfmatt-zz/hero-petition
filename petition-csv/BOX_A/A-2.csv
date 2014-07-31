@@ -1,4 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
 1109148308,Janie,L,Suthoff,9514 Meadowbriar,77063,6/22/14
 1154727896,Kyle,E,Crake,11023 Pine Forest,77042,6/22/14
 1108247569,Frances,J,Jackson,9206 Bronco Drive,77055,6/22/14

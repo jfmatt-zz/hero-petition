@@ -1,4 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
 1152082745,Tinkika,,Owens,3411 Walnut Pond Ln,77042,6/19/14
 1104348475,Rashawnda,,Roberson,10615 Meadowglen,77042,6/19/14
 1114560998,Elizabeth,,Beasley,4215 Yupin Ridge,77072,6/19/14

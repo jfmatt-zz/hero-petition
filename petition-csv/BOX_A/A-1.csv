@@ -1,4 +1,4 @@
-voter_id,first_name,initial,last_name,street_address,zip,date_signed
+voter_id,first_name,initial,last_name,street_address,zip,date_signed_mm_dd_yy
 1108713719,Gerald,W,Tonne,7906 Meadowcroft,77063,6/22/14
 1178487421,Betty,C,Hudson,5105 Airline #1114,77020,6/22/14
 1107007047,Dorothy,,Kelley,13 Exbury Way,77056,6/22/14
