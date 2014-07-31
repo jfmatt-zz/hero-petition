@@ -21,7 +21,16 @@ The folder `petition-csv` contains a CSV for every petition page. They are organ
 
 ## How to Help
 
-Unfortunately, github won't allow the pdfs to stay in the repo (they're too big), so you'll have to download the pdfs if you'd like to help. Simply choose a page from a box (A-G) that have not been transcoded and get to it!. You'll notice the base CSV template already has the field headers you'll need to fill in for every signature row. I hope to soon publish a TODO list of sorts, letting people know what has or has not been touched.
+Unfortunately, github won't allow the pdfs to stay in the repo (they're too big), so you'll have to download the pdfs if you'd like to help. Simply choose a page from a box (A-G) that have not been transcoded and get to it!. You'll notice the base CSV template already has the field headers you'll need to fill in for every signature row. 
+
+### Steps
+
+* Fork this repo
+* Choose a box and a page to do. There will be between 1 and 15 rows to transcode.
+* Download that box's pdf (links below), find that page, modify the csv with your favorite spreadsheet editor. Make every attempt to fill in every row.
+* Once done, submit a pull request and I'll merge your changes in and send you my thanks.
+
+I hope to soon publish a TODO list of sorts, letting people know what has or has not been touched.
 
 
 ## Links to the PDFs
