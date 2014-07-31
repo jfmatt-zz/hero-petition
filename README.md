@@ -27,10 +27,9 @@ Unfortunately, github won't allow the pdfs to stay in the repo (they're too big)
 
 * Fork this repo
 * Choose a box and a page to do. There will be between 1 and 15 rows to transcode.
+* Place your github handle in the README.md located in each BOX. Put the page and rows you intend on committing. Submit a pull request of that readme.
 * Download that box's pdf (links below), find that page, modify the csv with your favorite spreadsheet editor. Make every attempt to fill in every row.
-* Once done, submit a pull request and I'll merge your changes in and send you my thanks.
-
-I hope to soon publish a TODO list of sorts, letting people know what has or has not been touched.
+* Once done, submit a pull request and I'll merge your changes in, mark your changes are completed in the appropriate README.md and send you my thanks. 
 
 
 ## Links to the PDFs
